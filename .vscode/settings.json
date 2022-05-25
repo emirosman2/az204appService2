@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/54dc5a43-15ba-46fe-8083-6e85f943b3dc/resourceGroups/appsvc_linux_centralus_premium/providers/Microsoft.Web/sites/emirosmanappv2",
+    "appService.deploySubpath": "."
+}
